@@ -36,23 +36,5 @@
       "email": "arbore@aba.com",
       "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
     },
-    {
-      "firstName": "Consultora Sas",
-      "Nit": "10101",
-      "Valor": "12000",
-      "ModoPago": "efecivo",
-      "FechaFactura": "2000-02-20",
-      "email": "angie.hernandez@3dves.com",
-      "id": "bn-YYz-"
-    },
-    {
-      "firstName": "Mantenimiento Bogota",
-      "Nit": "10210210",
-      "Valor": "5000000",
-      "ModoPago": "cheque",
-      "FechaFactura": "2020-05-22",
-      "email": "juanhernandeznz@gmail.com",
-      "id": "Ceukorr"
-    }
   ]
 }
